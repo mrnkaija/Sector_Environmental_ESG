@@ -1,9 +1,11 @@
 *Dataset*
+
 *Source: Kaggle*
+
 This dataset simulates the financial and ESG (Environmental, Social, and Governance) performance of 1,000 global companies across 9 industries and 7 regions from 2015 to 2025. It contains metrics like revenue, profit margins, market capitalization; alongside comprehensive ESG indicators, including carbon emissions, resource usage, and detailed ESG scores.
 
 *My Objective:*
-Exploring the relationship between ESG and financial metrics to determine posibble sustainable investing strategies
+To explore the relationship between ESG and financial metrics to determine posibble sustainable investing strategies
 
 *My Methodology:*
 1. Data Loading and Initial Exploration
